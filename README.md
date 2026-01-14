@@ -1,2 +1,2 @@
 ## 📄 Resume
-- [Download Resume](./Mahboob_Chowdhury_Resume.pdf)
+- [Download Resume](./Mahboob-Chowdhury-Resume.pdf)
